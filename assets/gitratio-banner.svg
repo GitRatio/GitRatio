@@ -1,31 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">GitRatio — build, refine, ship</title>
-  <desc id="desc">Midnight-blue developer banner with geometric connection points, silver typography, and blue accent lines.</desc>
-  <defs>
-    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1020"/><stop offset="0.6" stop-color="#101B30"/><stop offset="1" stop-color="#112741"/></linearGradient>
-    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.55" stop-color="#60A5FA"/><stop offset="1" stop-color="#B8CCDF"/></linearGradient>
-    <radialGradient id="glow"><stop offset="0" stop-color="#3183C6" stop-opacity=".34"/><stop offset="1" stop-color="#3183C6" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#85A4C0" stroke-opacity=".085" stroke-width="1"/></pattern>
-    <clipPath id="clip"><rect x="0" y="0" width="1280" height="320" rx="24"/></clipPath>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1280" height="320" fill="url(#back)"/>
-    <rect width="1280" height="320" fill="url(#grid)"/>
-    <circle cx="1070" cy="145" r="300" fill="url(#glow)"/>
-    <path d="M0 0H1280V320H0Z" fill="none" stroke="#415F7D" stroke-opacity=".28" stroke-width="2"/>
-    <g opacity=".52" fill="none" stroke="#4D7498" stroke-width="1.5">
-      <path d="M936 252 1025 170 1112 203 1191 102 1261 141"/>
-      <path d="M1025 170 1039 80 1128 53 1191 102 1236 25"/>
-      <path d="M1112 203 1164 278 1247 242"/>
-    </g>
-    <g fill="#101B30" stroke="#52A9E8" stroke-width="3">
-      <circle cx="1025" cy="170" r="8"/><circle cx="1112" cy="203" r="8"/><circle cx="1191" cy="102" r="8"/>
-    </g>
-    <g fill="#95CDEE" opacity=".75"><circle cx="936" cy="252" r="4"/><circle cx="1039" cy="80" r="4"/><circle cx="1128" cy="53" r="4"/><circle cx="1236" cy="25" r="4"/><circle cx="1261" cy="141" r="4"/></g>
-    <rect x="66" y="58" width="52" height="5" rx="2.5" fill="url(#edge)"/>
-    <text x="66" y="121" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="4.7" font-weight="600" fill="#7CB8DB">INDEPENDENT SOFTWARE BUILDER</text>
-    <text x="61" y="219" font-family="Segoe UI, Arial, sans-serif" font-size="99" letter-spacing="5" font-weight="800" fill="#EDF5FD">GIT<tspan fill="#69B9ED">RATIO</tspan></text>
-    <text x="67" y="266" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="2.5" font-weight="500" fill="#A6B7C8">BROWSER TOOLS  /  DESKTOP APPS  /  CREATIVE SOFTWARE</text>
-    <rect x="67" y="287" width="515" height="2" fill="url(#edge)" opacity=".75"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">GitRatio — Software that gets out of the way</title>
+<desc id="desc">Signature GitRatio profile banner with custom GR signal mark, dark graphite panels, blueprint lines and cool blue and silver typography.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1220"/><stop offset=".66" stop-color="#101F32"/><stop offset="1" stop-color="#0C1524"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1"><stop stop-color="#74DEFF"/><stop offset=".5" stop-color="#4AA0E2"/><stop offset="1" stop-color="#7B82FB"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#3D9CFA" stop-opacity=".23"/><stop offset="1" stop-color="#3D9CFA" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#AEC6DC" fill-opacity=".12"/></pattern>
+<clipPath id="round"><rect width="1280" height="400" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1280" height="400" fill="url(#bg)"/>
+<rect width="1280" height="400" fill="url(#dots)"/>
+<path d="M758 0H1280V400H701Z" fill="#152941" opacity=".48"/>
+<path d="M843 -20 754 420M895 -20 806 420M947 -20 858 420" stroke="#6684A0" stroke-opacity=".09" stroke-width="2"/>
+<circle cx="1037" cy="189" r="255" fill="url(#halo)"/>
+<path d="M45 46H1235M45 352H1235" stroke="#A4C1D9" stroke-opacity=".20"/>
+<path d="M45 45H186M1041 352H1235" stroke="url(#accent)" stroke-width="2"/>
+<path d="M52 69 63 58 74 69 63 80Z" fill="none" stroke="#6BC8F5" stroke-width="2.5"/>
+<path d="M57 69H69" stroke="#C6E7FA" stroke-width="2"/>
+<text x="89" y="75" fill="#BBD1E2" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="16" letter-spacing="4">GITRATIO / INDEPENDENT SOFTWARE</text>
+<text x="70" y="208" fill="#F1F7FD" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="99" letter-spacing="-1">GIT<tspan fill="#79CFF8">RATIO</tspan></text>
+<rect x="75" y="236" width="55" height="4" rx="2" fill="url(#accent)"/>
+<text x="76" y="283" fill="#E0EFFA" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" letter-spacing="1.4">SOFTWARE THAT GETS OUT OF THE WAY.</text>
+<text x="76" y="327" fill="#96ABC0" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2.2">BUILD  /  REFINE  /  SHIP</text>
+<g transform="translate(1026 192)">
+<circle r="138" fill="#0A1728" fill-opacity=".7" stroke="#526B83" stroke-opacity=".47" stroke-width="1.5"/>
+<circle r="117" fill="none" stroke="#7FBFEA" stroke-opacity=".48" stroke-width="1.5" stroke-dasharray="4 9"/>
+<circle r="103" fill="none" stroke="#7EB5DC" stroke-opacity=".23" stroke-width="1.4"/>
+<path d="M-92 -71 -65 -95H64L89 -71V73L64 96H-65L-92 72Z" fill="#15253B" stroke="#78CAE9" stroke-width="2.5"/>
+<path d="M-69 -52H12M-69 -52V50H9V9H-17" stroke="#D4E5F1" stroke-width="13" fill="none" stroke-linejoin="miter"/>
+<path d="M33 51V-52H69L79 -38V-5L64 6H33M55 7 80 51" stroke="#66C7F4" stroke-width="12" fill="none" stroke-linecap="square" stroke-linejoin="miter"/>
+<path d="M-157 0H-137M137 0H157M0 -157V-137M0 137V157" stroke="#8AB2D5" stroke-opacity=".7" stroke-width="2"/>
+<circle cx="-92" cy="-71" r="4" fill="#70D5FE"/><circle cx="89" cy="73" r="4" fill="#70D5FE"/>
+</g>
+<text x="932" y="371" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#8DB1CC">G/R  ·  SIGNAL SERIES 001</text>
+</g>
 </svg>
