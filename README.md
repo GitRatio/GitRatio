@@ -3,8 +3,6 @@
 </p>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/223794718?v=4" alt="GitRatio's current GitHub avatar" width="88" height="88" />
-  <h2>Constantino Arango <sub>/ GitRatio</sub></h2>
   <p><strong>Independent developer. Builder of useful little systems.</strong></p>
   <p>I turn complicated workflows into software that feels lighter, clearer, and more in your control.</p>
   <p>
