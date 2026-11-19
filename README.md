@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gitratio-banner.svg" width="100%" alt="GitRatio software studio — custom GR monogram, technical signal design, and the motto Software That Gets Out of the Way" />
+  <img src="assets/gitratio-banner.png" width="100%" alt="GitRatio software studio — custom GR monogram, technical signal design, and the motto Software That Gets Out of the Way" />
 </p>
 
 <div align="center">
