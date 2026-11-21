@@ -58,7 +58,11 @@
 - **Control is a feature.** Explain permissions, prefer opt-in capabilities, and design safe recovery paths.
 - **Finishing is a feature.** Tests, packaging, accessibility, and actual user experience matter as much as the prototype.
 
-### 03 / Inside the workshop
+### 03 / Contribute & collaborate
+
+Interested in making these tools better? [Read the contribution guide](CONTRIBUTING.md) for public project links, reproducible issue reports, focused pull requests, and security-conscious collaboration. Real contributions and constructive feedback are welcome.
+
+### 04 / Inside the workshop
 
 <details>
   <summary><strong>Languages, platforms &amp; tools</strong> — expand the toolkit</summary>
